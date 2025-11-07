@@ -1,0 +1,12 @@
+/* --------- 색상 & 그림자 --------- */
+:root {
+  --bg: #f6f7fb;
+  --card: #ffffff;
+  --ink: #1a1a1a;
+  --muted: #6b7280;
+  --brand: #7c3aed;
+
+  --shadow-1: 0 1px 2px rgba(0,0,0,.08);
+  --shadow-2: 0 6px 16px rgba(0,0,0,.10);
+  --shadow-3: 0 20px 40px rgba(124,58,237,.15);
+  --shadow-strong
